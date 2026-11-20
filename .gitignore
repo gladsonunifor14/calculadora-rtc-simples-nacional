@@ -25,3 +25,7 @@ replay_pid*
 
 # Build
 .mirror-manifest
+
+# Artefatos gerados localmente (build Maven e banco SQLite)
+target/
+calculadora/
